@@ -1,5 +1,5 @@
 # Mat-Cleaner
-###Small web app that determines who will be the next cleaners<br>
+<h3>Small web app that determines who will be the next cleaners<h3><br>
 <br>
 > What I learned during this project:
 > - DOM Manipulation
